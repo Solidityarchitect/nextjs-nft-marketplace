@@ -5,7 +5,7 @@
 
 ## 1. Git clone the contracts repo
 
-In it's own terminal / command line, run: 
+In it's own terminal / command line, run 
 
 ```
 git clone https://github.com/Solidityarchitect/nextjs-nft-marketplace
