@@ -5,7 +5,7 @@
 
 ## 1. Git clone the contracts repo
 
-In it's own terminal / command line, run 
+In it's own terminal / command line, run:
 
 ```
 git clone https://github.com/Solidityarchitect/nextjs-nft-marketplace
@@ -55,5 +55,5 @@ yarn dev
   2. And withdraw proceeds ✅
 
 3. Instead of reading the events from Moralis, we will
-  1. Index them with TheGraph 
-  2. Read from the graph
+  1. Index them with TheGraph ✅
+  2. Read from the graph ✅
